@@ -266,10 +266,13 @@ def build_html(data: dict, summary_html: str) -> str:
   </style>
 </head>
 <body>
-  <header>
-    <h1>UCVM Research Weekly Summary</h1>
-    <p class="meta">Generated: {now} | Window: {html.escape(str(data.get('window',{}).get('start')))} → {html.escape(str(data.get('window',{}).get('end')))} | Works: {data.get('works_count')}</p>
-  </header>
+  <header style="display:flex;align-items:center;justify-content:space-between;gap:1rem;">
+      <div>
+        <h1>UCVM Research Weekly Summary</h1>
+        <p class="meta">Generated: {generated_time} | Window: {window_start} → {window_end} | Works: {len(works)}</p>
+      </div>
+      <img src="logo.png" alt="Logo" style="height:48px;width:auto;">
+   </header>
 
   {summary_html}
 
