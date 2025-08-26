@@ -271,7 +271,7 @@ def build_html(data: dict, summary_html: str) -> str:
         <h1>UCVM Research Weekly Summary</h1>
         <p class="meta">Generated: {generated_time} | Window: {window_start} → {window_end} | Works: {len(works)}</p>
       </div>
-      <img src="logo.png" alt="Logo" style="height:48px;width:auto;">
+      <img src="logo.png" alt="Logo" style="height:96px;width:auto;">
    </header>
 
   {summary_html}
