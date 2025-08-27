@@ -1,1440 +1,66 @@
 {
-  "generated_at": "2025-08-27T15:22:38.873317+00:00",
+  "generated_at": "2025-08-27T15:48:57.978315+00:00",
   "window": {
     "start": "2025-08-20",
     "end": "2025-08-27"
   },
-  "cohort_size": 87,
-  "works_count": 7,
+  "cohort_size": 82,
+  "works_count": 4,
   "works": [
     {
-      "openalex_id": "https://openalex.org/W4413409998",
-      "title": "Novel <i>Cardiac Troponin-I</i> Missense Variant (c.593C&gt;T) Is Associated With Familial Hypertrophic Cardiomyopathy in Golden Retrievers",
-      "publication_date": "2025-08-22",
+      "openalex_id": "https://openalex.org/W4413644869",
+      "title": "Fósseis são evidências científicas e não devem ser vendidos para colecionadores privados",
+      "publication_date": "2025-08-26",
       "publication_year": 2025,
-      "journal": "Circulation Genomic and Precision Medicine",
-      "type": "article",
-      "doi": "https://doi.org/10.1161/circgen.125.005096",
-      "doi_url": "https://doi.org/10.1161/circgen.125.005096",
+      "journal": "",
+      "type": "preprint",
+      "doi": "https://doi.org/10.64628/ade.96fm6cfjh",
+      "doi_url": "https://doi.org/10.64628/ade.96fm6cfjh",
       "authorships": [
         {
-          "id": "https://openalex.org/A5059306645",
-          "openalex_id": "A5059306645",
-          "display_name": "Victor N. Rivas",
-          "orcid": "https://orcid.org/0000-0002-5016-3743",
-          "author_position": "first"
+          "id": "https://openalex.org/A5034107669",
+          "openalex_id": "A5034107669",
+          "display_name": "Jessica M. Theodor",
+          "orcid": "https://orcid.org/0000-0002-5159-7041",
+          "author_position": "first",
+          "email": "jtheodor@ucalgary.ca"
         },
         {
-          "id": "https://openalex.org/A5082097120",
-          "openalex_id": "A5082097120",
-          "display_name": "Dayna Goldsmith",
-          "orcid": "https://orcid.org/0000-0002-5619-4540",
-          "author_position": "middle",
-          "email": "dayna.goldsmith@ucalgary.ca"
-        },
-        {
-          "id": "https://openalex.org/A5087778274",
-          "openalex_id": "A5087778274",
-          "display_name": "Michael W. Vandewege",
-          "orcid": "https://orcid.org/0000-0003-1115-9087",
-          "author_position": "middle"
-        },
-        {
-          "id": "https://openalex.org/A5003146712",
-          "openalex_id": "A5003146712",
-          "display_name": "Ronald H. L. Li",
-          "orcid": "https://orcid.org/0000-0002-3325-2744",
-          "author_position": "middle"
-        },
-        {
-          "id": "https://openalex.org/A5083274986",
-          "openalex_id": "A5083274986",
-          "display_name": "Sandra M. Losa",
+          "id": "https://openalex.org/A5061915358",
+          "openalex_id": "A5061915358",
+          "display_name": "Kristi Curry Rogers",
           "orcid": null,
           "author_position": "middle"
         },
         {
-          "id": "https://openalex.org/A5109234373",
-          "openalex_id": "A5109234373",
-          "display_name": "Markus Leber",
-          "orcid": null,
+          "id": "https://openalex.org/A5024127842",
+          "openalex_id": "A5024127842",
+          "display_name": "Stuart S. Sumida",
+          "orcid": "https://orcid.org/0000-0002-4835-2609",
           "author_position": "middle"
         },
         {
-          "id": "https://openalex.org/A5087602405",
-          "openalex_id": "A5087602405",
-          "display_name": "Panchan Sitthicharoenchai",
-          "orcid": "https://orcid.org/0000-0002-4412-7121",
-          "author_position": "middle"
-        },
-        {
-          "id": "https://openalex.org/A5031489121",
-          "openalex_id": "A5031489121",
-          "display_name": "Kristen Hawkes",
-          "orcid": "https://orcid.org/0000-0002-0558-4856",
-          "author_position": "middle"
-        },
-        {
-          "id": "https://openalex.org/A5010776429",
-          "openalex_id": "A5010776429",
-          "display_name": "Jennifer L. Davies",
-          "orcid": "https://orcid.org/0000-0002-7668-6817",
-          "author_position": "middle"
-        },
-        {
-          "id": "https://openalex.org/A5051997692",
-          "openalex_id": "A5051997692",
-          "display_name": "Carolyn Legge",
-          "orcid": "https://orcid.org/0009-0009-2122-2124",
-          "author_position": "middle",
-          "email": "chlegge@ucalgary.ca"
-        },
-        {
-          "id": "https://openalex.org/A5023508787",
-          "openalex_id": "A5023508787",
-          "display_name": "S T REVELL",
-          "orcid": null,
-          "author_position": "middle"
-        },
-        {
-          "id": "https://openalex.org/A5079027517",
-          "openalex_id": "A5079027517",
-          "display_name": "Joshua A. Stern",
-          "orcid": "https://orcid.org/0000-0001-5611-5745",
+          "id": "https://openalex.org/A5070433559",
+          "openalex_id": "A5070433559",
+          "display_name": "Kenshu Shimada",
+          "orcid": "https://orcid.org/0000-0001-7836-809X",
           "author_position": "last"
         }
       ],
       "cohort_matches": [
         {
-          "id": "https://openalex.org/A5082097120",
-          "openalex_id": "A5082097120",
-          "display_name": "Dayna Goldsmith",
-          "orcid": "https://orcid.org/0000-0002-5619-4540",
-          "author_position": "middle",
-          "email": "dayna.goldsmith@ucalgary.ca"
-        },
-        {
-          "id": "https://openalex.org/A5051997692",
-          "openalex_id": "A5051997692",
-          "display_name": "Carolyn Legge",
-          "orcid": "https://orcid.org/0009-0009-2122-2124",
-          "author_position": "middle",
-          "email": "chlegge@ucalgary.ca"
+          "id": "https://openalex.org/A5034107669",
+          "openalex_id": "A5034107669",
+          "display_name": "Jessica M. Theodor",
+          "orcid": "https://orcid.org/0000-0002-5159-7041",
+          "author_position": "first",
+          "email": "jtheodor@ucalgary.ca"
         }
       ],
-      "abstract_inverted_index": {
-        "BACKGROUND:": [
-          0
-        ],
-        "Hypertrophic": [
-          1
-        ],
-        "cardiomyopathy": [
-          2
-        ],
-        "(HCM)": [
-          3
-        ],
-        "is": [
-          4,
-          21,
-          259
-        ],
-        "a": [
-          5,
-          57,
-          202
-        ],
-        "naturally": [
-          6
-        ],
-        "occurring": [
-          7
-        ],
-        "cardiac": [
-          8,
-          68,
-          157
-        ],
-        "disorder": [
-          9
-        ],
-        "afflicting": [
-          10
-        ],
-        "humans,": [
-          11,
-          36
-        ],
-        "cats,": [
-          12
-        ],
-        "rhesus": [
-          13
-        ],
-        "macaques,": [
-          14
-        ],
-        "pigs,": [
-          15
-        ],
-        "and": [
-          16,
-          105,
-          129,
-          150,
-          164,
-          182,
-          245,
-          282,
-          293
-        ],
-        "rarely": [
-          17
-        ],
-        "dogs.": [
-          18,
-          54
-        ],
-        "The": [
-          19
-        ],
-        "disease": [
-          20,
-          295
-        ],
-        "characterized": [
-          22
-        ],
-        "by": [
-          23
-        ],
-        "maladaptive": [
-          24
-        ],
-        "left": [
-          25,
-          235
-        ],
-        "ventricular": [
-          26,
-          140,
-          236
-        ],
-        "wall": [
-          27
-        ],
-        "thickening.": [
-          28
-        ],
-        "Over": [
-          29
-        ],
-        "1500": [
-          30
-        ],
-        "sarcomere-coding": [
-          31
-        ],
-        "mutations": [
-          32,
-          49
-        ],
-        "explain": [
-          33
-        ],
-        "HCM": [
-          34,
-          55
-        ],
-        "in": [
-          35,
-          43,
-          53,
-          56,
-          122,
-          208,
-          219,
-          224,
-          278
-        ],
-        "whereas": [
-          37
-        ],
-        "only": [
-          38
-        ],
-        "3": [
-          39,
-          71,
-          88
-        ],
-        "have": [
-          40,
-          50
-        ],
-        "been": [
-          41,
-          51
-        ],
-        "reported": [
-          42,
-          275
-        ],
-        "cat": [
-          44
-        ],
-        "breeds.": [
-          45
-        ],
-        "To": [
-          46
-        ],
-        "date,": [
-          47
-        ],
-        "no": [
-          48
-        ],
-        "described": [
-          52
-        ],
-        "nuclear": [
-          58,
-          93
-        ],
-        "family": [
-          59,
-          94
-        ],
-        "of": [
-          60,
-          70,
-          76,
-          126,
-          133,
-          152,
-          159,
-          167,
-          174,
-          189,
-          195,
-          199,
-          229,
-          234,
-          255
-        ],
-        "Golden": [
-          61,
-          112,
-          136
-        ],
-        "Retrievers": [
-          62,
-          137
-        ],
-        "was": [
-          63,
-          114,
-          120,
-          144,
-          216
-        ],
-        "identified": [
-          64,
-          201
-        ],
-        "following": [
-          65
-        ],
-        "the": [
-          66,
-          87,
-          156,
-          168,
-          175,
-          220,
-          225,
-          248,
-          252,
-          256,
-          267,
-          273,
-          298
-        ],
-        "sudden": [
-          67
-        ],
-        "death": [
-          69
-        ],
-        "related": [
-          72,
-          261
-        ],
-        "puppies": [
-          73,
-          170
-        ],
-        "&lt;2": [
-          74
-        ],
-        "years": [
-          75
-        ],
-        "age": [
-          77
-        ],
-        "from": [
-          78
-        ],
-        "2": [
-          79
-        ],
-        "dam-offspring": [
-          80
-        ],
-        "repeat": [
-          81
-        ],
-        "matings.": [
-          82
-        ],
-        "METHODS:": [
-          83
-        ],
-        "Whole-genome": [
-          84
-        ],
-        "sequencing": [
-          85
-        ],
-        "on": [
-          86
-        ],
-        "affected": [
-          89
-        ],
-        "puppies,": [
-          90
-        ],
-        "along": [
-          91
-        ],
-        "with": [
-          92
-        ],
-        "members": [
-          95
-        ],
-        "(ie,": [
-          96
-        ],
-        "sire,": [
-          97
-        ],
-        "dam,": [
-          98
-        ],
-        "4": [
-          99,
-          102
-        ],
-        "unaffected": [
-          100,
-          103
-        ],
-        "littermates,": [
-          101
-        ],
-        "half-siblings),": [
-          104
-        ],
-        "1": [
-          106
-        ],
-        "distantly": [
-          107
-        ],
-        "related,": [
-          108
-        ],
-        "geriatric,": [
-          109
-        ],
-        "cardiovascularly": [
-          110
-        ],
-        "normal": [
-          111
-        ],
-        "Retriever": [
-          113
-        ],
-        "performed": [
-          115,
-          121,
-          146,
-          192
-        ],
-        "(n=14).": [
-          116
-        ],
-        "Candidate": [
-          117
-        ],
-        "variant": [
-          118,
-          207,
-          215,
-          258,
-          271,
-          277
-        ],
-        "genotyping": [
-          119
-        ],
-        "an": [
-          123,
-          130,
-          196
-        ],
-        "unphenotyped": [
-          124,
-          221
-        ],
-        "cohort": [
-          125,
-          228
-        ],
-        "dogs": [
-          127,
-          230
-        ],
-        "(n=2771)": [
-          128,
-          222
-        ],
-        "expanded": [
-          131
-        ],
-        "population": [
-          132
-        ],
-        "phenotyped,": [
-          134,
-          226
-        ],
-        "unrelated": [
-          135,
-          227
-        ],
-        "(n=45).": [
-          138,
-          231
-        ],
-        "Left": [
-          139
-        ],
-        "tissue": [
-          141
-        ],
-        "immunofluorescence": [
-          142
-        ],
-        "staining": [
-          143,
-          233
-        ],
-        "subsequently": [
-          145
-        ],
-        "to": [
-          147,
-          262
-        ],
-        "investigate": [
-          148
-        ],
-        "incorporation": [
-          149,
-          265
-        ],
-        "expression": [
-          151,
-          246
-        ],
-        "mutant": [
-          153
-        ],
-        "protein": [
-          154,
-          243,
-          264
-        ],
-        "within": [
-          155,
-          266,
-          297
-        ],
-        "sarcomere": [
-          158
-        ],
-        "HCM-affected": [
-          160,
-          169
-        ],
-        "cases.": [
-          161
-        ],
-        "RESULTS:": [
-          162
-        ],
-        "Gross": [
-          163
-        ],
-        "histopathologic": [
-          165
-        ],
-        "evaluations": [
-          166
-        ],
-        "revealed": [
-          171
-        ],
-        "hallmark": [
-          172
-        ],
-        "features": [
-          173
-        ],
-        "disease,": [
-          176
-        ],
-        "including": [
-          177
-        ],
-        "cardiomyocyte": [
-          178
-        ],
-        "hypertrophy,": [
-          179
-        ],
-        "interstitial": [
-          180
-        ],
-        "fibrosis,": [
-          181
-        ],
-        "left-sided": [
-          183
-        ],
-        "congestive": [
-          184
-        ],
-        "heart": [
-          185
-        ],
-        "failure.": [
-          186
-        ],
-        "Segregation": [
-          187
-        ],
-        "analysis": [
-          188
-        ],
-        "called": [
-          190
-        ],
-        "variants,": [
-          191
-        ],
-        "under": [
-          193
-        ],
-        "assumptions": [
-          194
-        ],
-        "autosomal-recessive": [
-          197
-        ],
-        "mode": [
-          198
-        ],
-        "inheritance,": [
-          200
-        ],
-        "single": [
-          203
-        ],
-        "segregating": [
-          204
-        ],
-        "c.593C&gt;T": [
-          205
-        ],
-        "missense": [
-          206
-        ],
-        "TNNI3": [
-          209,
-          257
-        ],
-        "(": [
-          210
-        ],
-        "Cardiac": [
-          211
-        ],
-        "Troponin-I": [
-          212
-        ],
-        ").": [
-          213
-        ],
-        "This": [
-          214,
-          270
-        ],
-        "not": [
-          217,
-          239,
-          260
-        ],
-        "observed": [
-          218
-        ],
-        "nor": [
-          223
-        ],
-        "Immunofluorescence": [
-          232
-        ],
-        "tissues": [
-          237
-        ],
-        "did": [
-          238
-        ],
-        "reveal": [
-          240
-        ],
-        "obvious": [
-          241
-        ],
-        "aberrant": [
-          242
-        ],
-        "localization": [
-          244
-        ],
-        "at": [
-          247
-        ],
-        "sarcomeric": [
-          249
-        ],
-        "level,": [
-          250
-        ],
-        "suggesting": [
-          251
-        ],
-        "molecular": [
-          253
-        ],
-        "pathogenesis": [
-          254
-        ],
-        "abnormal": [
-          263
-        ],
-        "sarcomere.": [
-          268
-        ],
-        "CONCLUSIONS:": [
-          269
-        ],
-        "represents": [
-          272
-        ],
-        "first-ever": [
-          274
-        ],
-        "HCM-associated": [
-          276
-        ],
-        "any": [
-          279
-        ],
-        "canine": [
-          280
-        ],
-        "species,": [
-          281
-        ],
-        "its": [
-          283
-        ],
-        "identification": [
-          284
-        ],
-        "holds": [
-          285
-        ],
-        "promise": [
-          286
-        ],
-        "for": [
-          287
-        ],
-        "establishing": [
-          288
-        ],
-        "translational": [
-          289
-        ],
-        "models,": [
-          290
-        ],
-        "genetic": [
-          291
-        ],
-        "screening,": [
-          292
-        ],
-        "early": [
-          294
-        ],
-        "prevention": [
-          296
-        ],
-        "breed.": [
-          299
-        ]
-      },
-      "abstract_text": "BACKGROUND: Hypertrophic cardiomyopathy (HCM) is a naturally occurring cardiac disorder afflicting humans, cats, rhesus macaques, pigs, and rarely dogs. The disease is characterized by maladaptive left ventricular wall thickening. Over 1500 sarcomere-coding mutations explain HCM in humans, whereas only 3 have been reported in cat breeds. To date, no mutations have been described in dogs. HCM in a nuclear family of Golden Retrievers was identified following the sudden cardiac death of 3 related puppies &lt;2 years of age from 2 dam-offspring repeat matings. METHODS: Whole-genome sequencing on the 3 affected puppies, along with nuclear family members (ie, sire, dam, 4 unaffected littermates, 4 unaffected half-siblings), and 1 distantly related, geriatric, cardiovascularly normal Golden Retriever was performed (n=14). Candidate variant genotyping was performed in an unphenotyped cohort of dogs (n=2771) and an expanded population of phenotyped, unrelated Golden Retrievers (n=45). Left ventricular tissue immunofluorescence staining was subsequently performed to investigate incorporation and expression of mutant protein within the cardiac sarcomere of HCM-affected cases. RESULTS: Gross and histopathologic evaluations of the HCM-affected puppies revealed hallmark features of the disease, including cardiomyocyte hypertrophy, interstitial fibrosis, and left-sided congestive heart failure. Segregation analysis of called variants, performed under assumptions of an autosomal-recessive mode of inheritance, identified a single segregating c.593C&gt;T missense variant in TNNI3 ( Cardiac Troponin-I ). This variant was not observed in the unphenotyped (n=2771) nor in the phenotyped, unrelated cohort of dogs (n=45). Immunofluorescence staining of left ventricular tissues did not reveal obvious aberrant protein localization and expression at the sarcomeric level, suggesting the molecular pathogenesis of the TNNI3 variant is not related to abnormal protein incorporation within the sarcomere. CONCLUSIONS: This variant represents the first-ever reported HCM-associated variant in any canine species, and its identification holds promise for establishing translational models, genetic screening, and early disease prevention within the breed.",
-      "abstract_snippet_250w": "BACKGROUND: Hypertrophic cardiomyopathy (HCM) is a naturally occurring cardiac disorder afflicting humans, cats, rhesus macaques, pigs, and rarely dogs. The disease is characterized by maladaptive left ventricular wall thickening. Over 1500 sarcomere-coding mutations explain HCM in humans, whereas only 3 have been reported in cat breeds. To date, no mutations have been described in dogs. HCM in a nuclear family of Golden Retrievers was identified following the sudden cardiac death of 3 related puppies &lt;2 years of age from 2 dam-offspring repeat matings. METHODS: Whole-genome sequencing on the 3 affected puppies, along with nuclear family members (ie, sire, dam, 4 unaffected littermates, 4 unaffected half-siblings), and 1 distantly related, geriatric, cardiovascularly normal Golden Retriever was performed (n=14). Candidate variant genotyping was performed in an unphenotyped cohort of dogs (n=2771) and an expanded population of phenotyped, unrelated Golden Retrievers (n=45). Left ventricular tissue immunofluorescence staining was subsequently performed to investigate incorporation and expression of mutant protein within the cardiac sarcomere of HCM-affected cases. RESULTS: Gross and histopathologic evaluations of the HCM-affected puppies revealed hallmark features of the disease, including cardiomyocyte hypertrophy, interstitial fibrosis, and left-sided congestive heart failure. Segregation analysis of called variants, performed under assumptions of an autosomal-recessive mode of inheritance, identified a single segregating c.593C&gt;T missense variant in TNNI3 ( Cardiac Troponin-I ). This variant was not observed in the unphenotyped (n=2771) nor in the phenotyped, unrelated cohort of dogs (n=45). Immunofluorescence staining of left ventricular tissues did not reveal obvious aberrant protein localization and expression at the sarcomeric…",
+      "abstract_inverted_index": null,
+      "abstract_text": "",
+      "abstract_snippet_250w": "",
       "is_oa": false
-    },
-    {
-      "openalex_id": "https://openalex.org/W4413429855",
-      "title": "Femur Shape Changes in Prg4‐Deficient Mice: Morphological Insights Into Joint Well‐Being",
-      "publication_date": "2025-08-22",
-      "publication_year": 2025,
-      "journal": "The FASEB Journal",
-      "type": "article",
-      "doi": "https://doi.org/10.1096/fj.202501775r",
-      "doi_url": "https://doi.org/10.1096/fj.202501775r",
-      "authorships": [
-        {
-          "id": "https://openalex.org/A5038338120",
-          "openalex_id": "A5038338120",
-          "display_name": "Anand O. Masson",
-          "orcid": "https://orcid.org/0000-0001-7342-7038",
-          "author_position": "first"
-        },
-        {
-          "id": "https://openalex.org/A5023886356",
-          "openalex_id": "A5023886356",
-          "display_name": "Jay Devine",
-          "orcid": "https://orcid.org/0000-0003-0600-1058",
-          "author_position": "middle"
-        },
-        {
-          "id": "https://openalex.org/A5072877168",
-          "openalex_id": "A5072877168",
-          "display_name": "Nabangshu Das",
-          "orcid": null,
-          "author_position": "middle"
-        },
-        {
-          "id": "https://openalex.org/A5035065911",
-          "openalex_id": "A5035065911",
-          "display_name": "Clarissa Coveney",
-          "orcid": "https://orcid.org/0000-0001-8177-7353",
-          "author_position": "middle"
-        },
-        {
-          "id": "https://openalex.org/A5017527161",
-          "openalex_id": "A5017527161",
-          "display_name": "Benedikt Hallgrímsson",
-          "orcid": "https://orcid.org/0000-0002-7192-9103",
-          "author_position": "middle"
-        },
-        {
-          "id": "https://openalex.org/A5002604099",
-          "openalex_id": "A5002604099",
-          "display_name": "Zun Liu",
-          "orcid": "https://orcid.org/0000-0002-0617-7902",
-          "author_position": "middle"
-        },
-        {
-          "id": "https://openalex.org/A5016288715",
-          "openalex_id": "A5016288715",
-          "display_name": "Terence D. Capellini",
-          "orcid": "https://orcid.org/0000-0003-3842-8478",
-          "author_position": "middle"
-        },
-        {
-          "id": "https://openalex.org/A5084242333",
-          "openalex_id": "A5084242333",
-          "display_name": "Jeff Biernaskie",
-          "orcid": "https://orcid.org/0000-0002-0633-0698",
-          "author_position": "middle",
-          "email": "jabierna@ucalgary.ca"
-        },
-        {
-          "id": "https://openalex.org/A5039979518",
-          "openalex_id": "A5039979518",
-          "display_name": "W. Brent Edwards",
-          "orcid": "https://orcid.org/0000-0002-3623-9764",
-          "author_position": "middle"
-        },
-        {
-          "id": "https://openalex.org/A5084465267",
-          "openalex_id": "A5084465267",
-          "display_name": "Roman Krawetz",
-          "orcid": "https://orcid.org/0000-0002-2576-4504",
-          "author_position": "last"
-        }
-      ],
-      "cohort_matches": [
-        {
-          "id": "https://openalex.org/A5084242333",
-          "openalex_id": "A5084242333",
-          "display_name": "Jeff Biernaskie",
-          "orcid": "https://orcid.org/0000-0002-0633-0698",
-          "author_position": "middle",
-          "email": "jabierna@ucalgary.ca"
-        }
-      ],
-      "abstract_inverted_index": {
-        "ABSTRACT": [
-          0
-        ],
-        "Many": [
-          1
-        ],
-        "studies": [
-          2
-        ],
-        "have": [
-          3
-        ],
-        "reported": [
-          4
-        ],
-        "on": [
-          5,
-          25
-        ],
-        "the": [
-          6,
-          14,
-          28,
-          32,
-          173,
-          180
-        ],
-        "role": [
-          7
-        ],
-        "of": [
-          8,
-          16,
-          31,
-          124
-        ],
-        "Proteoglycan‐4": [
-          9
-        ],
-        "(PRG4,": [
-          10
-        ],
-        "aka": [
-          11
-        ],
-        "lubricin)": [
-          12
-        ],
-        "in": [
-          13,
-          35,
-          70,
-          101,
-          151,
-          161,
-          190
-        ],
-        "reduction": [
-          15
-        ],
-        "friction": [
-          17
-        ],
-        "between": [
-          18,
-          119
-        ],
-        "cartilage": [
-          19,
-          51,
-          193
-        ],
-        "surfaces": [
-          20
-        ],
-        "with": [
-          21,
-          172,
-          197
-        ],
-        "a": [
-          22,
-          85,
-          102
-        ],
-        "specific": [
-          23
-        ],
-        "focus": [
-          24
-        ],
-        "chondroprotection": [
-          26
-        ],
-        "within": [
-          27
-        ],
-        "joint.": [
-          29
-        ],
-        "Disruption": [
-          30
-        ],
-        "Prg4": [
-          33,
-          59,
-          76,
-          116,
-          147,
-          162
-        ],
-        "gene": [
-          34
-        ],
-        "humans": [
-          36
-        ],
-        "and": [
-          37,
-          48,
-          62,
-          92,
-          115,
-          121,
-          153,
-          169,
-          184,
-          213
-        ],
-        "mice": [
-          38,
-          61,
-          118,
-          164
-        ],
-        "leads": [
-          39
-        ],
-        "to": [
-          40,
-          75,
-          83,
-          94,
-          131,
-          140,
-          156,
-          179
-        ],
-        "premature": [
-          41,
-          49
-        ],
-        "joint": [
-          42,
-          89,
-          211,
-          216
-        ],
-        "failure,": [
-          43
-        ],
-        "hallmarked": [
-          44
-        ],
-        "by": [
-          45
-        ],
-        "synovial": [
-          46
-        ],
-        "hyperplasia": [
-          47
-        ],
-        "articular": [
-          50,
-          192
-        ],
-        "fibrillation.": [
-          52
-        ],
-        "Our": [
-          53
-        ],
-        "group": [
-          54
-        ],
-        "has": [
-          55,
-          63
-        ],
-        "published": [
-          56
-        ],
-        "extensively": [
-          57
-        ],
-        "using": [
-          58
-        ],
-        "knockout": [
-          60
-        ],
-        "consistently": [
-          64
-        ],
-        "noticed": [
-          65
-        ],
-        "variable": [
-          66
-        ],
-        "distal": [
-          67,
-          159
-        ],
-        "femoral": [
-          68
-        ],
-        "morphology": [
-          69
-        ],
-        "these": [
-          71,
-          203
-        ],
-        "animals": [
-          72
-        ],
-        "when": [
-          73
-        ],
-        "compared": [
-          74,
-          155
-        ],
-        "+/+": [
-          77
-        ],
-        "wild‐types": [
-          78
-        ],
-        "(WT).": [
-          79
-        ],
-        "This": [
-          80
-        ],
-        "prompted": [
-          81
-        ],
-        "us": [
-          82
-        ],
-        "undertake": [
-          84
-        ],
-        "quantitative": [
-          86
-        ],
-        "study": [
-          87
-        ],
-        "examining": [
-          88
-        ],
-        "element": [
-          90
-        ],
-        "size": [
-          91,
-          152
-        ],
-        "shape": [
-          93,
-          135,
-          154
-        ],
-        "elucidate": [
-          95
-        ],
-        "if": [
-          96
-        ],
-        "this": [
-          97
-        ],
-        "phenotype": [
-          98
-        ],
-        "was": [
-          99
-        ],
-        "consistent": [
-          100
-        ],
-        "larger": [
-          103
-        ],
-        "sample": [
-          104
-        ],
-        "size.": [
-          105
-        ],
-        "High‐resolution": [
-          106
-        ],
-        "X‐ray": [
-          107
-        ],
-        "microscopy": [
-          108
-        ],
-        "(XRM)": [
-          109
-        ],
-        "images": [
-          110
-        ],
-        "were": [
-          111,
-          138,
-          195
-        ],
-        "obtained": [
-          112
-        ],
-        "from": [
-          113
-        ],
-        "WT": [
-          114,
-          157
-        ],
-        "−/−": [
-          117,
-          148,
-          163
-        ],
-        "8‐": [
-          120
-        ],
-        "36": [
-          122
-        ],
-        "weeks": [
-          123
-        ],
-        "age.": [
-          125
-        ],
-        "We": [
-          126,
-          144
-        ],
-        "then": [
-          127
-        ],
-        "employed": [
-          128
-        ],
-        "geometric": [
-          129
-        ],
-        "morphometrics": [
-          130
-        ],
-        "characterize": [
-          132
-        ],
-        "mouse": [
-          133
-        ],
-        "femora": [
-          134,
-          149,
-          160
-        ],
-        "changes,": [
-          136
-        ],
-        "which": [
-          137
-        ],
-        "correlated": [
-          139
-        ],
-        "cross‐sectional": [
-          141
-        ],
-        "histological": [
-          142
-        ],
-        "findings.": [
-          143
-        ],
-        "find": [
-          145
-        ],
-        "that": [
-          146,
-          206
-        ],
-        "vary": [
-          150
-        ],
-        "controls;": [
-          158
-        ],
-        "are": [
-          165
-        ],
-        "enlarged,": [
-          166
-        ],
-        "extended": [
-          167
-        ],
-        "(anteroposterior)": [
-          168
-        ],
-        "narrower": [
-          170
-        ],
-        "(mediolateral),": [
-          171
-        ],
-        "largest": [
-          174
-        ],
-        "regional": [
-          175
-        ],
-        "deviations": [
-          176
-        ],
-        "being": [
-          177
-        ],
-        "traced": [
-          178
-        ],
-        "trochlear": [
-          181
-        ],
-        "groove,": [
-          182
-        ],
-        "epicondyles,": [
-          183
-        ],
-        "medial": [
-          185
-        ],
-        "condyle.": [
-          186
-        ],
-        "Additionally,": [
-          187
-        ],
-        "quantifiable": [
-          188
-        ],
-        "changes": [
-          189
-        ],
-        "condylar": [
-          191
-        ],
-        "thickness": [
-          194
-        ],
-        "associated": [
-          196
-        ],
-        "abnormal": [
-          198
-        ],
-        "compressive": [
-          199
-        ],
-        "biomechanical": [
-          200
-        ],
-        "properties.": [
-          201
-        ],
-        "Collectively,": [
-          202
-        ],
-        "data": [
-          204
-        ],
-        "suggest": [
-          205
-        ],
-        "PRG4": [
-          207
-        ],
-        "loss": [
-          208
-        ],
-        "extends": [
-          209
-        ],
-        "beyond": [
-          210
-        ],
-        "homeostasis": [
-          212
-        ],
-        "critically": [
-          214
-        ],
-        "impacts": [
-          215
-        ],
-        "morphology.": [
-          217
-        ]
-      },
-      "abstract_text": "ABSTRACT Many studies have reported on the role of Proteoglycan‐4 (PRG4, aka lubricin) in the reduction of friction between cartilage surfaces with a specific focus on chondroprotection within the joint. Disruption of the Prg4 gene in humans and mice leads to premature joint failure, hallmarked by synovial hyperplasia and premature articular cartilage fibrillation. Our group has published extensively using Prg4 knockout mice and has consistently noticed variable distal femoral morphology in these animals when compared to Prg4 +/+ wild‐types (WT). This prompted us to undertake a quantitative study examining joint element size and shape to elucidate if this phenotype was consistent in a larger sample size. High‐resolution X‐ray microscopy (XRM) images were obtained from WT and Prg4 −/− mice between 8‐ and 36 weeks of age. We then employed geometric morphometrics to characterize mouse femora shape changes, which were correlated to cross‐sectional histological findings. We find that Prg4 −/− femora vary in size and shape compared to WT controls; distal femora in Prg4 −/− mice are enlarged, extended (anteroposterior) and narrower (mediolateral), with the largest regional deviations being traced to the trochlear groove, epicondyles, and medial condyle. Additionally, quantifiable changes in condylar articular cartilage thickness were associated with abnormal compressive biomechanical properties. Collectively, these data suggest that PRG4 loss extends beyond joint homeostasis and critically impacts joint morphology.",
-      "abstract_snippet_250w": "ABSTRACT Many studies have reported on the role of Proteoglycan‐4 (PRG4, aka lubricin) in the reduction of friction between cartilage surfaces with a specific focus on chondroprotection within the joint. Disruption of the Prg4 gene in humans and mice leads to premature joint failure, hallmarked by synovial hyperplasia and premature articular cartilage fibrillation. Our group has published extensively using Prg4 knockout mice and has consistently noticed variable distal femoral morphology in these animals when compared to Prg4 +/+ wild‐types (WT). This prompted us to undertake a quantitative study examining joint element size and shape to elucidate if this phenotype was consistent in a larger sample size. High‐resolution X‐ray microscopy (XRM) images were obtained from WT and Prg4 −/− mice between 8‐ and 36 weeks of age. We then employed geometric morphometrics to characterize mouse femora shape changes, which were correlated to cross‐sectional histological findings. We find that Prg4 −/− femora vary in size and shape compared to WT controls; distal femora in Prg4 −/− mice are enlarged, extended (anteroposterior) and narrower (mediolateral), with the largest regional deviations being traced to the trochlear groove, epicondyles, and medial condyle. Additionally, quantifiable changes in condylar articular cartilage thickness were associated with abnormal compressive biomechanical properties. Collectively, these data suggest that PRG4 loss extends beyond joint homeostasis and critically impacts joint morphology.",
-      "is_oa": true
     },
     {
       "openalex_id": "https://openalex.org/W4413387162",
@@ -1929,520 +555,6 @@
       "is_oa": false
     },
     {
-      "openalex_id": "https://openalex.org/W4413414434",
-      "title": "Platelet-derived growth factor signaling in porcine testicular tubular somatic cells",
-      "publication_date": "2025-08-21",
-      "publication_year": 2025,
-      "journal": "Cell and Tissue Research",
-      "type": "article",
-      "doi": "https://doi.org/10.1007/s00441-025-04004-x",
-      "doi_url": "https://doi.org/10.1007/s00441-025-04004-x",
-      "authorships": [
-        {
-          "id": "https://openalex.org/A5004220757",
-          "openalex_id": "A5004220757",
-          "display_name": "Nathália de Lima e Martins Lara",
-          "orcid": "https://orcid.org/0000-0002-8170-6384",
-          "author_position": "first"
-        },
-        {
-          "id": "https://openalex.org/A5064773786",
-          "openalex_id": "A5064773786",
-          "display_name": "Maryam Ahmadi Jeyhoonabadi",
-          "orcid": null,
-          "author_position": "middle"
-        },
-        {
-          "id": "https://openalex.org/A5064804903",
-          "openalex_id": "A5064804903",
-          "display_name": "Rkia Dardari",
-          "orcid": null,
-          "author_position": "middle"
-        },
-        {
-          "id": "https://openalex.org/A5092051555",
-          "openalex_id": "A5092051555",
-          "display_name": "Anja Elsenhans",
-          "orcid": null,
-          "author_position": "middle"
-        },
-        {
-          "id": "https://openalex.org/A5101776047",
-          "openalex_id": "A5101776047",
-          "display_name": "Lin Su",
-          "orcid": "https://orcid.org/0000-0002-3389-2063",
-          "author_position": "middle"
-        },
-        {
-          "id": "https://openalex.org/A5083460926",
-          "openalex_id": "A5083460926",
-          "display_name": "Sadman Sakib",
-          "orcid": "https://orcid.org/0000-0002-3864-7999",
-          "author_position": "middle"
-        },
-        {
-          "id": "https://openalex.org/A5061235320",
-          "openalex_id": "A5061235320",
-          "display_name": "Ina Dobrinski",
-          "orcid": "https://orcid.org/0000-0002-0695-2606",
-          "author_position": "last",
-          "email": "idobrins@ucalgary.ca"
-        }
-      ],
-      "cohort_matches": [
-        {
-          "id": "https://openalex.org/A5061235320",
-          "openalex_id": "A5061235320",
-          "display_name": "Ina Dobrinski",
-          "orcid": "https://orcid.org/0000-0002-0695-2606",
-          "author_position": "last",
-          "email": "idobrins@ucalgary.ca"
-        }
-      ],
-      "abstract_inverted_index": null,
-      "abstract_text": "",
-      "abstract_snippet_250w": "",
-      "is_oa": false
-    },
-    {
-      "openalex_id": "https://openalex.org/W4413373827",
-      "title": "Induced Chondrocyte Ablation Disrupts Articular Cartilage Homeostasis but Is Not a Driver of Degeneration",
-      "publication_date": "2025-08-21",
-      "publication_year": 2025,
-      "journal": "The FASEB Journal",
-      "type": "article",
-      "doi": "https://doi.org/10.1096/fj.202500883r",
-      "doi_url": "https://doi.org/10.1096/fj.202500883r",
-      "authorships": [
-        {
-          "id": "https://openalex.org/A5038338120",
-          "openalex_id": "A5038338120",
-          "display_name": "Anand O. Masson",
-          "orcid": "https://orcid.org/0000-0001-7342-7038",
-          "author_position": "first"
-        },
-        {
-          "id": "https://openalex.org/A5010825485",
-          "openalex_id": "A5010825485",
-          "display_name": "Jessica May Corpuz",
-          "orcid": null,
-          "author_position": "middle"
-        },
-        {
-          "id": "https://openalex.org/A5008283143",
-          "openalex_id": "A5008283143",
-          "display_name": "Kathryna Corpuz",
-          "orcid": "https://orcid.org/0009-0009-8682-6869",
-          "author_position": "middle"
-        },
-        {
-          "id": "https://openalex.org/A5084242333",
-          "openalex_id": "A5084242333",
-          "display_name": "Jeff Biernaskie",
-          "orcid": "https://orcid.org/0000-0002-0633-0698",
-          "author_position": "middle",
-          "email": "jabierna@ucalgary.ca"
-        },
-        {
-          "id": "https://openalex.org/A5039979518",
-          "openalex_id": "A5039979518",
-          "display_name": "W. Brent Edwards",
-          "orcid": "https://orcid.org/0000-0002-3623-9764",
-          "author_position": "middle"
-        },
-        {
-          "id": "https://openalex.org/A5084465267",
-          "openalex_id": "A5084465267",
-          "display_name": "Roman Krawetz",
-          "orcid": "https://orcid.org/0000-0002-2576-4504",
-          "author_position": "last"
-        }
-      ],
-      "cohort_matches": [
-        {
-          "id": "https://openalex.org/A5084242333",
-          "openalex_id": "A5084242333",
-          "display_name": "Jeff Biernaskie",
-          "orcid": "https://orcid.org/0000-0002-0633-0698",
-          "author_position": "middle",
-          "email": "jabierna@ucalgary.ca"
-        }
-      ],
-      "abstract_inverted_index": {
-        "ABSTRACT": [
-          0
-        ],
-        "Chondrocytes": [
-          1
-        ],
-        "define": [
-          2
-        ],
-        "and": [
-          3,
-          10,
-          20,
-          30,
-          62,
-          70,
-          81,
-          121
-        ],
-        "maintain": [
-          4
-        ],
-        "tissue": [
-          5,
-          68
-        ],
-        "architecture": [
-          6
-        ],
-        "in": [
-          7,
-          13,
-          17,
-          45,
-          89,
-          133
-        ],
-        "articular": [
-          8,
-          60,
-          107
-        ],
-        "cartilage": [
-          9,
-          37,
-          46,
-          98,
-          108
-        ],
-        "are": [
-          11
-        ],
-        "critical": [
-          12
-        ],
-        "regulating": [
-          14
-        ],
-        "the": [
-          15,
-          40,
-          64,
-          92,
-          110,
-          117,
-          123,
-          134,
-          146
-        ],
-        "microenvironment": [
-          16
-        ],
-        "both": [
-          18
-        ],
-        "health": [
-          19
-        ],
-        "disease.": [
-          21
-        ],
-        "Their": [
-          22
-        ],
-        "loss/dysfunction": [
-          23
-        ],
-        "has": [
-          24,
-          109
-        ],
-        "been": [
-          25
-        ],
-        "associated": [
-          26
-        ],
-        "with": [
-          27
-        ],
-        "aging,": [
-          28
-        ],
-        "injury,": [
-          29,
-          137
-        ],
-        "osteoarthritis": [
-          31
-        ],
-        "(OA),": [
-          32
-        ],
-        "which": [
-          33
-        ],
-        "is": [
-          34,
-          142
-        ],
-        "characterized": [
-          35
-        ],
-        "by": [
-          36
-        ],
-        "degradation.": [
-          38
-        ],
-        "However,": [
-          39
-        ],
-        "role": [
-          41
-        ],
-        "of": [
-          42,
-          84,
-          119,
-          126,
-          136
-        ],
-        "chondrocyte": [
-          43,
-          131
-        ],
-        "death": [
-          44
-        ],
-        "degeneration": [
-          47
-        ],
-        "remains": [
-          48
-        ],
-        "controversial.": [
-          49
-        ],
-        "We": [
-          50,
-          128
-        ],
-        "employed": [
-          51
-        ],
-        "a": [
-          52
-        ],
-        "Cre‐inducible": [
-          53
-        ],
-        "diphtheria": [
-          54
-        ],
-        "toxin": [
-          55
-        ],
-        "mouse": [
-          56
-        ],
-        "model": [
-          57
-        ],
-        "to": [
-          58,
-          97,
-          114,
-          144
-        ],
-        "deplete": [
-          59
-        ],
-        "chondrocytes": [
-          61,
-          120
-        ],
-        "evaluated": [
-          63
-        ],
-        "spatiotemporal": [
-          65
-        ],
-        "effects": [
-          66
-        ],
-        "on": [
-          67
-        ],
-        "structure": [
-          69
-        ],
-        "functional": [
-          71
-        ],
-        "integrity.": [
-          72
-        ],
-        "Chondrocyte‐ablated": [
-          73
-        ],
-        "mice": [
-          74
-        ],
-        "exhibit": [
-          75
-        ],
-        "altered": [
-          76
-        ],
-        "proteoglycan": [
-          77
-        ],
-        "staining,": [
-          78
-        ],
-        "mechanical": [
-          79
-        ],
-        "properties,": [
-          80
-        ],
-        "transient": [
-          82
-        ],
-        "upregulation": [
-          83
-        ],
-        "proteases.": [
-          85
-        ],
-        "Despite": [
-          86
-        ],
-        "overt": [
-          87
-        ],
-        "hypocellularity": [
-          88
-        ],
-        "aged": [
-          90
-        ],
-        "mice,": [
-          91
-        ],
-        "phenotype": [
-          93
-        ],
-        "did": [
-          94
-        ],
-        "not": [
-          95
-        ],
-        "progress": [
-          96
-        ],
-        "degeneration,": [
-          99
-        ],
-        "nor": [
-          100
-        ],
-        "OA.": [
-          101
-        ],
-        "Our": [
-          102
-        ],
-        "results": [
-          103
-        ],
-        "suggest": [
-          104
-        ],
-        "that": [
-          105,
-          130
-        ],
-        "murine": [
-          106
-        ],
-        "ability,": [
-          111
-        ],
-        "albeit": [
-          112
-        ],
-        "limited,": [
-          113
-        ],
-        "compensate": [
-          115
-        ],
-        "for": [
-          116
-        ],
-        "loss": [
-          118
-        ],
-        "mitigate": [
-          122
-        ],
-        "consequent": [
-          124
-        ],
-        "degree": [
-          125
-        ],
-        "harm.": [
-          127
-        ],
-        "demonstrate": [
-          129
-        ],
-        "depletion": [
-          132
-        ],
-        "absence": [
-          135
-        ],
-        "inflammation,": [
-          138
-        ],
-        "or": [
-          139
-        ],
-        "other": [
-          140
-        ],
-        "insult": [
-          141
-        ],
-        "insufficient": [
-          143
-        ],
-        "initiate": [
-          145
-        ],
-        "OA": [
-          147
-        ],
-        "disease": [
-          148
-        ],
-        "cascade.": [
-          149
-        ]
-      },
-      "abstract_text": "ABSTRACT Chondrocytes define and maintain tissue architecture in articular cartilage and are critical in regulating the microenvironment in both health and disease. Their loss/dysfunction has been associated with aging, injury, and osteoarthritis (OA), which is characterized by cartilage degradation. However, the role of chondrocyte death in cartilage degeneration remains controversial. We employed a Cre‐inducible diphtheria toxin mouse model to deplete articular chondrocytes and evaluated the spatiotemporal effects on tissue structure and functional integrity. Chondrocyte‐ablated mice exhibit altered proteoglycan staining, mechanical properties, and transient upregulation of proteases. Despite overt hypocellularity in aged mice, the phenotype did not progress to cartilage degeneration, nor OA. Our results suggest that murine articular cartilage has the ability, albeit limited, to compensate for the loss of chondrocytes and mitigate the consequent degree of harm. We demonstrate that chondrocyte depletion in the absence of injury, inflammation, or other insult is insufficient to initiate the OA disease cascade.",
-      "abstract_snippet_250w": "ABSTRACT Chondrocytes define and maintain tissue architecture in articular cartilage and are critical in regulating the microenvironment in both health and disease. Their loss/dysfunction has been associated with aging, injury, and osteoarthritis (OA), which is characterized by cartilage degradation. However, the role of chondrocyte death in cartilage degeneration remains controversial. We employed a Cre‐inducible diphtheria toxin mouse model to deplete articular chondrocytes and evaluated the spatiotemporal effects on tissue structure and functional integrity. Chondrocyte‐ablated mice exhibit altered proteoglycan staining, mechanical properties, and transient upregulation of proteases. Despite overt hypocellularity in aged mice, the phenotype did not progress to cartilage degeneration, nor OA. Our results suggest that murine articular cartilage has the ability, albeit limited, to compensate for the loss of chondrocytes and mitigate the consequent degree of harm. We demonstrate that chondrocyte depletion in the absence of injury, inflammation, or other insult is insufficient to initiate the OA disease cascade.",
-      "is_oa": false
-    },
-    {
       "openalex_id": "https://openalex.org/W4413374246",
       "title": "A call to action to address critical flaws and bias in laboratory animal experiments and preclinical research",
       "publication_date": "2025-08-21",
@@ -2478,7 +590,8 @@
           "openalex_id": "A5053621056",
           "display_name": "Douglas W. Morck",
           "orcid": "https://orcid.org/0009-0000-8212-7934",
-          "author_position": "middle"
+          "author_position": "middle",
+          "email": "dmorck@ucalgary.ca"
         },
         {
           "id": "https://openalex.org/A5078209259",
@@ -2520,18 +633,17 @@
           "openalex_id": "A5057011174",
           "display_name": "James C. Cross",
           "orcid": "https://orcid.org/0000-0003-0956-9378",
-          "author_position": "last",
-          "email": "jcross@ucalgary.ca"
+          "author_position": "last"
         }
       ],
       "cohort_matches": [
         {
-          "id": "https://openalex.org/A5057011174",
-          "openalex_id": "A5057011174",
-          "display_name": "James C. Cross",
-          "orcid": "https://orcid.org/0000-0003-0956-9378",
-          "author_position": "last",
-          "email": "jcross@ucalgary.ca"
+          "id": "https://openalex.org/A5053621056",
+          "openalex_id": "A5053621056",
+          "display_name": "Douglas W. Morck",
+          "orcid": "https://orcid.org/0009-0000-8212-7934",
+          "author_position": "middle",
+          "email": "dmorck@ucalgary.ca"
         }
       ],
       "abstract_inverted_index": null,
@@ -2540,692 +652,1077 @@
       "is_oa": true
     },
     {
-      "openalex_id": "https://openalex.org/W4413402975",
-      "title": "Exploring Monthly Variation of Gait Asymmetry During In-Hand Trot in Thoroughbred Racehorses in Race Training",
+      "openalex_id": "https://openalex.org/W4413354762",
+      "title": "Predicting hydrocarbon presence in marine cold seep sediments using machine learning models trained with benthic bacterial 16S rRNA taxonomy",
       "publication_date": "2025-08-20",
       "publication_year": 2025,
-      "journal": "Animals",
+      "journal": "Microbiology Spectrum",
       "type": "article",
-      "doi": "https://doi.org/10.3390/ani15162449",
-      "doi_url": "https://doi.org/10.3390/ani15162449",
+      "doi": "https://doi.org/10.1128/spectrum.03033-24",
+      "doi_url": "https://doi.org/10.1128/spectrum.03033-24",
       "authorships": [
         {
-          "id": "https://openalex.org/A5090343464",
-          "openalex_id": "A5090343464",
-          "display_name": "Thilo Pfau",
-          "orcid": "https://orcid.org/0000-0002-0702-4289",
-          "author_position": "first",
-          "email": "thilo.pfau@ucalgary.ca"
+          "id": "https://openalex.org/A5114058912",
+          "openalex_id": "A5114058912",
+          "display_name": "Rohan Khan",
+          "orcid": null,
+          "author_position": "first"
         },
         {
-          "id": "https://openalex.org/A5071913798",
-          "openalex_id": "A5071913798",
-          "display_name": "B. Forbes",
-          "orcid": "https://orcid.org/0000-0001-9581-9470",
+          "id": "https://openalex.org/A5064496715",
+          "openalex_id": "A5064496715",
+          "display_name": "Tulika Bhardwaj",
+          "orcid": "https://orcid.org/0000-0001-6382-2413",
           "author_position": "middle"
         },
         {
-          "id": "https://openalex.org/A5119378338",
-          "openalex_id": "A5119378338",
-          "display_name": "Fernanda Sepulveda-Caviedes",
+          "id": "https://openalex.org/A5101613208",
+          "openalex_id": "A5101613208",
+          "display_name": "Carmen Li",
+          "orcid": "https://orcid.org/0000-0003-3676-0725",
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5072569074",
+          "openalex_id": "A5072569074",
+          "display_name": "Anirban Chakraborty",
+          "orcid": "https://orcid.org/0000-0002-1109-3797",
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5043516879",
+          "openalex_id": "A5043516879",
+          "display_name": "Jose Miguel Seoane",
           "orcid": null,
           "author_position": "middle"
         },
         {
-          "id": "https://openalex.org/A5073084055",
-          "openalex_id": "A5073084055",
-          "display_name": "Zoe Y. S. Chan",
-          "orcid": "https://orcid.org/0000-0002-8883-1858",
+          "id": "https://openalex.org/A5109552873",
+          "openalex_id": "A5109552873",
+          "display_name": "James M. Brooks",
+          "orcid": null,
           "author_position": "middle"
         },
         {
-          "id": "https://openalex.org/A5007726857",
-          "openalex_id": "A5007726857",
-          "display_name": "Renate Weller",
+          "id": "https://openalex.org/A5110706126",
+          "openalex_id": "A5110706126",
+          "display_name": "Bernie B. Bernard",
           "orcid": null,
-          "author_position": "last"
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5019266873",
+          "openalex_id": "A5019266873",
+          "display_name": "Adam MacDonald",
+          "orcid": null,
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5092730588",
+          "openalex_id": "A5092730588",
+          "display_name": "Natasha MacAdam",
+          "orcid": null,
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5032913391",
+          "openalex_id": "A5032913391",
+          "display_name": "D C Campbell",
+          "orcid": "https://orcid.org/0000-0002-6319-6536",
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5005850465",
+          "openalex_id": "A5005850465",
+          "display_name": "Martin G. Fowler",
+          "orcid": "https://orcid.org/0000-0003-0944-4153",
+          "author_position": "middle"
+        },
+        {
+          "id": "https://openalex.org/A5029134801",
+          "openalex_id": "A5029134801",
+          "display_name": "Casey R. J. Hubert",
+          "orcid": "https://orcid.org/0000-0002-8691-8116",
+          "author_position": "last",
+          "email": "chubert@ucalgary.ca"
         }
       ],
       "cohort_matches": [
         {
-          "id": "https://openalex.org/A5090343464",
-          "openalex_id": "A5090343464",
-          "display_name": "Thilo Pfau",
-          "orcid": "https://orcid.org/0000-0002-0702-4289",
-          "author_position": "first",
-          "email": "thilo.pfau@ucalgary.ca"
+          "id": "https://openalex.org/A5029134801",
+          "openalex_id": "A5029134801",
+          "display_name": "Casey R. J. Hubert",
+          "orcid": "https://orcid.org/0000-0002-8691-8116",
+          "author_position": "last",
+          "email": "chubert@ucalgary.ca"
         }
       ],
       "abstract_inverted_index": {
-        "Based": [
+        "ABSTRACT": [
           0
         ],
-        "on": [
-          1,
-          271
+        "Hydrocarbon": [
+          1
         ],
-        "fundamental": [
+        "seepage": [
           2
         ],
-        "mechanics,": [
-          3
-        ],
-        "movement": [
-          4,
-          11,
-          107,
-          209,
-          214,
-          238,
-          255,
-          267
-        ],
-        "and": [
-          5,
-          9,
-          58,
-          73,
-          105,
-          144,
-          163,
-          210,
-          239,
-          265
-        ],
-        "force": [
-          6,
-          16
-        ],
-        "associate": [
-          7
-        ],
-        "head": [
-          8,
-          104,
-          208,
-          237
-        ],
-        "pelvic": [
-          10,
-          106,
-          168,
-          213,
-          242
-        ],
-        "asymmetry": [
-          12,
-          14,
-          49
-        ],
-        "with": [
-          13
-        ],
-        "of": [
-          15,
-          29,
-          117,
-          131,
-          155,
-          171,
-          175,
-          203,
-          205,
-          231
-        ],
-        "production.": [
-          17
-        ],
-        "We": [
-          18,
-          45
-        ],
-        "investigate,": [
-          19
-        ],
-        "how": [
-          20
-        ],
-        "often": [
-          21
-        ],
-        "racehorses": [
-          22,
-          86,
-          245
-        ],
-        "undergoing": [
-          23
-        ],
-        "strenuous": [
-          24
-        ],
-        "training": [
-          25,
-          247
-        ],
-        "regimens": [
-          26
-        ],
-        "show": [
-          27
-        ],
-        "evidence": [
-          28
-        ],
-        "switching": [
-          30
-        ],
-        "between": [
-          31,
-          70,
-          120,
-          148,
-          250,
-          261
-        ],
-        "“preferred”": [
-          32
-        ],
-        "limbs,": [
-          33
-        ],
-        "i.e.": [
-          34
-        ],
-        "one": [
-          35
-        ],
-        "limb": [
-          36
-        ],
-        "producing": [
-          37
-        ],
-        "increased": [
-          38
-        ],
-        "force,": [
-          39
-        ],
-        "when": [
-          40,
-          60
-        ],
-        "assessed": [
-          41
-        ],
-        "at": [
-          42,
-          87
-        ],
-        "monthly": [
-          43,
-          156,
-          176
-        ],
-        "intervals?": [
-          44
-        ],
-        "hypothesize": [
-          46
-        ],
-        "that": [
-          47,
-          59
-        ],
-        "clinical": [
-          48,
-          136,
-          189
-        ],
-        "thresholds": [
-          50,
-          133,
-          191
-        ],
-        "designed": [
-          51
-        ],
-        "for": [
-          52,
-          100,
-          103,
-          167,
-          192,
-          207,
-          212,
-          221,
-          236,
-          241,
-          280
-        ],
-        "“detecting": [
-          53
-        ],
-        "lameness”": [
-          54
-        ],
-        "are": [
-          55
-        ],
-        "frequently": [
-          56,
-          259
-        ],
-        "exceeded": [
-          57
-        ],
-        "applying": [
-          61
-        ],
-        "previously": [
-          62,
-          139
-        ],
-        "established": [
-          63,
-          140
-        ],
-        "Thoroughbred-specific": [
-          64,
-          112,
-          141
-        ],
-        "repeatability": [
-          65,
-          113,
-          142,
-          219
-        ],
-        "values,": [
-          66
-        ],
-        "horses": [
-          67
-        ],
-        "rarely": [
-          68
-        ],
-        "switch": [
-          69,
-          145,
-          249,
-          260
-        ],
-        "showing": [
-          71
-        ],
-        "left-": [
-          72,
-          252,
-          264
-        ],
-        "right-sided": [
-          74,
-          254,
-          266
-        ],
-        "asymmetry.": [
-          75
-        ],
-        "Monthly": [
-          76
-        ],
-        "gait": [
-          77
-        ],
-        "assessments": [
-          78,
-          122
-        ],
-        "(inertial": [
-          79
-        ],
-        "sensors)": [
-          80
-        ],
-        "were": [
-          81,
-          108,
-          158
-        ],
-        "conducted": [
-          82
-        ],
         "in": [
-          83,
-          125,
-          178,
-          246
-        ],
-        "256": [
-          84
-        ],
-        "Thoroughbred": [
-          85
-        ],
-        "least": [
-          88
-        ],
-        "twice": [
-          89
-        ],
-        "per": [
-          90,
-          96
-        ],
-        "horse": [
-          91
-        ],
-        "(up": [
-          92
-        ],
-        "to": [
-          93,
-          110,
-          127
-        ],
-        "16": [
-          94
-        ],
-        "times": [
-          95
-        ],
-        "horse).": [
-          97
-        ],
-        "Descriptive": [
-          98
-        ],
-        "statistics": [
-          99
-        ],
-        "absolute": [
-          101
-        ],
-        "differences": [
-          102,
-          157,
-          177
-        ],
-        "compared": [
-          109,
-          147
-        ],
-        "published": [
-          111,
-          161
-        ],
-        "values.": [
-          114
-        ],
-        "The": [
-          115
-        ],
-        "percentage": [
-          116,
-          202,
-          230
-        ],
-        "left–right": [
-          118,
-          183,
-          194
-        ],
-        "switches": [
-          119,
-          184,
-          232
-        ],
-        "repeat": [
-          121
-        ],
-        "was": [
-          123,
-          233
-        ],
-        "calculated": [
-          124
-        ],
-        "comparison": [
-          126
-        ],
-        "three": [
-          128,
-          150
-        ],
-        "different": [
-          129
-        ],
-        "levels": [
-          130
-        ],
-        "pre-defined": [
-          132
-        ],
-        "(perfect": [
-          134
-        ],
-        "symmetry,": [
-          135
-        ],
-        "lameness": [
-          137,
-          190
-        ],
-        "thresholds,": [
-          138
-        ],
-        "values)": [
-          143
-        ],
-        "frequencies": [
-          146
-        ],
-        "the": [
-          149,
-          278
-        ],
-        "thresholds.": [
-          151
-        ],
-        "Ranges": [
-          152
-        ],
-        "containing": [
-          153
-        ],
-        "95%": [
-          154
-        ],
-        "higher": [
-          159
-        ],
-        "than": [
-          160
-        ],
-        "daily": [
-          162,
-          218,
-          272
-        ],
-        "weekly": [
-          164
-        ],
-        "values": [
-          165,
-          220
-        ],
-        "except": [
-          166
-        ],
-        "vertical": [
-          169
-        ],
-        "range": [
-          170
-        ],
-        "motion.": [
-          172
-        ],
-        "Approximately": [
-          173
-        ],
-        "30%": [
-          174
-        ],
-        "individual": [
-          179
-        ],
-        "symmetry": [
-          180
-        ],
-        "parameters": [
-          181
-        ],
-        "showed": [
-          182,
-          215
-        ],
-        "around": [
-          185
-        ],
-        "“perfect": [
-          186
-        ],
-        "symmetry”.": [
-          187
-        ],
-        "Utilizing": [
-          188
-        ],
-        "categorizing": [
-          193
-        ],
-        "switches,": [
-          195
-        ],
-        "a": [
-          196,
-          223
-        ],
-        "significantly": [
-          197,
-          225
-        ],
-        "(p": [
-          198,
-          226
-        ],
-        "&lt;": [
-          199,
-          227
-        ],
-        "0.001)": [
-          200,
-          228
-        ],
-        "reduced": [
-          201,
-          229
-        ],
-        "4–11%": [
-          204
-        ],
-        "measurements": [
-          206
-        ],
-        "7–17%": [
-          211
-        ],
-        "switches.": [
-          216,
-          283
-        ],
-        "Using": [
-          217
-        ],
-        "categorization,": [
-          222
-        ],
-        "further": [
-          224
-        ],
-        "observed:": [
-          234
-        ],
-        "0.3–3.6%": [
-          235
-        ],
-        "0.6–7.0%": [
-          240
-        ],
-        "movement.": [
-          243
-        ],
-        "While": [
-          244
-        ],
-        "regularly": [
-          248
-        ],
-        "small": [
-          251
-        ],
-        "or": [
-          253
-        ],
-        "symmetries,": [
-          256
-        ],
-        "they": [
-          257
-        ],
-        "less": [
-          258
-        ],
-        "more": [
-          262
-        ],
-        "pronounced": [
-          263
-        ],
-        "symmetries": [
-          268
-        ],
-        "defined": [
-          269
-        ],
-        "based": [
-          270
-        ],
-        "variations.": [
-          273
-        ],
-        "Further": [
-          274
-        ],
-        "studies": [
-          275
-        ],
-        "should": [
-          276
-        ],
-        "investigate": [
-          277
-        ],
-        "reasons": [
-          279
-        ],
-        "these": [
+          3,
+          16,
+          31,
+          53,
+          104,
+          144,
+          168,
+          245,
+          282,
+          324,
+          355,
+          403,
+          408,
+          417,
+          421,
+          458
+        ],
+        "marine": [
+          4,
+          51,
+          279,
+          287
+        ],
+        "sediments": [
+          5,
+          18,
+          52,
           281
         ],
-        "rare": [
-          282
+        "exerts": [
+          6
+        ],
+        "selective": [
+          7
+        ],
+        "pressure": [
+          8
+        ],
+        "on": [
+          9,
+          191,
+          267
+        ],
+        "benthic": [
+          10
+        ],
+        "microbiomes.": [
+          11
+        ],
+        "Accordingly,": [
+          12
+        ],
+        "microbial": [
+          13,
+          176,
+          221,
+          254,
+          453
+        ],
+        "community": [
+          14
+        ],
+        "composition": [
+          15
+        ],
+        "these": [
+          17,
+          166
+        ],
+        "can": [
+          19
+        ],
+        "reflect": [
+          20
+        ],
+        "the": [
+          21,
+          59,
+          92,
+          100,
+          111,
+          115,
+          119,
+          123,
+          130,
+          153,
+          158,
+          175,
+          205,
+          217,
+          293,
+          298,
+          320,
+          331,
+          341,
+          366,
+          371,
+          396,
+          405,
+          414,
+          425,
+          441,
+          449,
+          467
+        ],
+        "presence": [
+          22,
+          93,
+          131,
+          342
+        ],
+        "of": [
+          23,
+          58,
+          62,
+          94,
+          106,
+          110,
+          132,
+          207,
+          219,
+          243,
+          292,
+          301,
+          326,
+          330,
+          343,
+          424,
+          434,
+          443,
+          452
+        ],
+        "hydrocarbons,": [
+          24
+        ],
+        "with": [
+          25,
+          33,
+          41,
+          149,
+          152,
+          229,
+          362,
+          365
+        ],
+        "specific": [
+          26
+        ],
+        "groups": [
+          27
+        ],
+        "being": [
+          28
+        ],
+        "more": [
+          29
+        ],
+        "prolific": [
+          30
+        ],
+        "association": [
+          32
+        ],
+        "seepage.": [
+          34
+        ],
+        "Here,": [
+          35
+        ],
+        "we": [
+          36
+        ],
+        "tested": [
+          37
+        ],
+        "machine": [
+          38,
+          72,
+          264,
+          455
+        ],
+        "learning": [
+          39,
+          73,
+          265,
+          456
+        ],
+        "models": [
+          40,
+          88,
+          101,
+          167,
+          189,
+          209,
+          266,
+          321,
+          386,
+          429,
+          457
+        ],
+        "large": [
+          42
+        ],
+        "16S": [
+          43,
+          86,
+          268
+        ],
+        "rRNA": [
+          44
+        ],
+        "gene": [
+          45
+        ],
+        "amplicon": [
+          46
+        ],
+        "data": [
+          47,
+          194,
+          272
+        ],
+        "sets": [
+          48
+        ],
+        "derived": [
+          49
+        ],
+        "from": [
+          50,
+          99,
+          278,
+          289,
+          319,
+          395
+        ],
+        "deep-sea": [
+          54
+        ],
+        "hydrocarbon": [
+          55,
+          136,
+          223,
+          251,
+          285,
+          299,
+          347,
+          406
+        ],
+        "prospective": [
+          56,
+          286
+        ],
+        "areas": [
+          57
+        ],
+        "Eastern": [
+          60
+        ],
+        "Gulf": [
+          61,
+          105,
+          325
+        ],
+        "Mexico": [
+          63,
+          107,
+          327
+        ],
+        "and": [
+          64,
+          118,
+          196,
+          232,
+          253,
+          261,
+          334,
+          463
+        ],
+        "NW": [
+          65,
+          356
+        ],
+        "Atlantic": [
+          66,
+          357
+        ],
+        "Scotian": [
+          67,
+          145,
+          358
+        ],
+        "Slope.": [
+          68
+        ],
+        "Utilizing": [
+          69
+        ],
+        "H2O’s": [
+          70
+        ],
+        "AutoML": [
+          71
+        ],
+        "platform,": [
+          74
+        ],
+        "it": [
+          75
+        ],
+        "was": [
+          76,
+          141,
+          352
+        ],
+        "determined": [
+          77
+        ],
+        "that": [
+          78,
+          89,
+          103,
+          174,
+          323
+        ],
+        "Gradient": [
+          79,
+          308
+        ],
+        "Boosting": [
+          80,
+          309
+        ],
+        "Machines": [
+          81,
+          310
+        ],
+        "performed": [
+          82,
+          201
+        ],
+        "best": [
+          83,
+          312
+        ],
+        "for": [
+          84,
+          129,
+          161,
+          198,
+          313,
+          340,
+          374
+        ],
+        "creating": [
+          85
+        ],
+        "rRNA-based": [
+          87,
+          269
+        ],
+        "successfully": [
+          90
+        ],
+        "predict": [
+          91,
+          297
+        ],
+        "hydrocarbons.": [
+          95
+        ],
+        "Feature": [
+          96,
+          316
+        ],
+        "importance": [
+          97,
+          317
+        ],
+        "scores": [
+          98,
+          318
+        ],
+        "revealed": [
+          102
+        ],
+        "samples,": [
+          108,
+          328
+        ],
+        "members": [
+          109,
+          329
+        ],
+        "Aminicenantia": [
+          112
+        ],
+        "class": [
+          113
+        ],
+        "(within": [
+          114,
+          122,
+          157,
+          370
+        ],
+        "Acidobacteriota": [
+          116
+        ],
+        "phylum)": [
+          117,
+          125,
+          160,
+          373
+        ],
+        "Sulfurovum": [
+          120
+        ],
+        "genus": [
+          121
+        ],
+        "Campylobacterota": [
+          124,
+          139,
+          335,
+          350
+        ],
+        "were": [
+          126,
+          337,
+          400
+        ],
+        "most": [
+          127,
+          338
+        ],
+        "diagnostic": [
+          128,
+          339
+        ],
+        "low": [
+          133,
+          344
+        ],
+        "molecular": [
+          134,
+          345
+        ],
+        "weight": [
+          135,
+          346
+        ],
+        "gases.": [
+          137,
+          348
+        ],
+        "The": [
+          138,
+          349
+        ],
+        "lineage": [
+          140,
+          351
+        ],
+        "also": [
+          142,
+          353
+        ],
+        "important": [
+          143,
+          199,
+          241,
+          354
+        ],
+        "Slope": [
+          146,
+          359
+        ],
+        "sediments,": [
+          147,
+          360
+        ],
+        "along": [
+          148,
+          361
+        ],
+        "sequences": [
+          150,
+          363
+        ],
+        "affiliated": [
+          151,
+          364
+        ],
+        "class-level": [
+          154,
+          367
+        ],
+        "JS1": [
+          155,
+          369
+        ],
+        "group": [
+          156,
+          368
+        ],
+        "Caldatribacteriota": [
+          159,
+          372
+        ],
+        "determining": [
+          162,
+          375
+        ],
+        "hydrocarbon-positive": [
+          163,
+          376
+        ],
+        "sites.": [
+          164
+        ],
+        "Testing": [
+          165
+        ],
+        "geographically": [
+          169
+        ],
+        "distant": [
+          170
+        ],
+        "seafloor": [
+          171
+        ],
+        "basins": [
+          172,
+          179,
+          288
+        ],
+        "showed": [
+          173
+        ],
+        "communities": [
+          177
+        ],
+        "between": [
+          178
+        ],
+        "varied": [
+          180
+        ],
+        "sufficiently": [
+          181
+        ],
+        "to": [
+          182,
+          296,
+          382,
+          413
+        ],
+        "prevent": [
+          183
+        ],
+        "consistently": [
+          184
+        ],
+        "accurate": [
+          185
+        ],
+        "reciprocal": [
+          186,
+          409
+        ],
+        "predictions.": [
+          187
+        ],
+        "However,": [
+          188,
+          427
+        ],
+        "trained": [
+          190,
+          260
+        ],
+        "a": [
+          192,
+          388,
+          431,
+          444
+        ],
+        "combined": [
+          193,
+          428
+        ],
+        "set": [
+          195,
+          433
+        ],
+        "filtered": [
+          197
+        ],
+        "features": [
+          200,
+          380,
+          436
+        ],
+        "substantially": [
+          202
+        ],
+        "better,": [
+          203
+        ],
+        "supporting": [
+          204
+        ],
+        "feasibility": [
+          206,
+          442
+        ],
+        "generalized": [
+          208
+        ],
+        "under": [
+          210
+        ],
+        "stringent": [
+          211
+        ],
+        "feature": [
+          212
+        ],
+        "selection.": [
+          213
+        ],
+        "These": [
+          214
+        ],
+        "results": [
+          215
+        ],
+        "highlight": [
+          216,
+          448
+        ],
+        "potential": [
+          218,
+          451
+        ],
+        "seabed": [
+          220
+        ],
+        "taxonomy-based": [
+          222,
+          454
+        ],
+        "seep": [
+          224
+        ],
+        "site": [
+          225
+        ],
+        "prediction": [
+          226,
+          390
+        ],
+        "when": [
+          227,
+          392
+        ],
+        "paired": [
+          228
+        ],
+        "refined": [
+          230,
+          432
+        ],
+        "sampling": [
+          231
+        ],
+        "consistent": [
+          233
+        ],
+        "geochemical": [
+          234
+        ],
+        "characterization.": [
+          235
+        ],
+        "IMPORTANCE": [
+          236
+        ],
+        "Our": [
+          237
+        ],
+        "study": [
+          238
+        ],
+        "showcases": [
+          239
+        ],
+        "an": [
+          240,
+          246
+        ],
+        "use": [
+          242
+        ],
+        "bioinformatics": [
+          244
+        ],
+        "interdisciplinary": [
+          247
+        ],
+        "context,": [
+          248
+        ],
+        "by": [
+          249
+        ],
+        "combining": [
+          250
+        ],
+        "geochemistry": [
+          252
+        ],
+        "biodiversity": [
+          255
+        ],
+        "DNA": [
+          256,
+          275
+        ],
+        "sequencing": [
+          257,
+          276
+        ],
+        "profiles.": [
+          258
+        ],
+        "We": [
+          259
+        ],
+        "compared": [
+          262
+        ],
+        "different": [
+          263,
+          284,
+          290,
+          422
+        ],
+        "bacterial": [
+          270
+        ],
+        "taxonomy": [
+          271
+        ],
+        "using": [
+          273,
+          430
+        ],
+        "377": [
+          274
+        ],
+        "libraries": [
+          277
+        ],
+        "surface": [
+          280
+        ],
+        "two": [
+          283
+        ],
+        "parts": [
+          291,
+          423
+        ],
+        "global": [
+          294
+        ],
+        "ocean": [
+          295
+        ],
+        "status": [
+          300,
+          407
+        ],
+        "sediment": [
+          302
+        ],
+        "samples.": [
+          303
+        ],
+        "Of": [
+          304
+        ],
+        "all": [
+          305
+        ],
+        "algorithms": [
+          306
+        ],
+        "tested,": [
+          307
+        ],
+        "worked": [
+          311
+        ],
+        "this": [
+          314
+        ],
+        "objective.": [
+          315
+        ],
+        "highlighted": [
+          322
+        ],
+        "Aminicenantales": [
+          332
+        ],
+        "order": [
+          333
+        ],
+        "lineages": [
+          336
+        ],
+        "sites,": [
+          377
+        ],
+        "though": [
+          378
+        ],
+        "several": [
+          379
+        ],
+        "appeared": [
+          381
+        ],
+        "be": [
+          383
+        ],
+        "basin-specific.": [
+          384
+        ],
+        "Importantly,": [
+          385
+        ],
+        "had": [
+          387
+        ],
+        "high": [
+          389
+        ],
+        "accuracy": [
+          391
+        ],
+        "predicting": [
+          393,
+          404,
+          459
+        ],
+        "samples": [
+          394
+        ],
+        "same": [
+          397
+        ],
+        "basin": [
+          398,
+          410
+        ],
+        "but": [
+          399
+        ],
+        "less": [
+          401
+        ],
+        "effective": [
+          402
+        ],
+        "testing,": [
+          411
+        ],
+        "pointing": [
+          412
+        ],
+        "ecological": [
+          415
+        ],
+        "differences": [
+          416
+        ],
+        "hydrocarbon-driven": [
+          418
+        ],
+        "environmental": [
+          419
+        ],
+        "selection": [
+          420
+        ],
+        "ocean.": [
+          426
+        ],
+        "predictive": [
+          435
+        ],
+        "improved": [
+          437
+        ],
+        "cross-basin": [
+          438
+        ],
+        "performance,": [
+          439
+        ],
+        "highlighting": [
+          440
+        ],
+        "broader": [
+          445,
+          460
+        ],
+        "application.": [
+          446
+        ],
+        "Results": [
+          447
+        ],
+        "exciting": [
+          450
+        ],
+        "ecological,": [
+          461
+        ],
+        "oceanographic,": [
+          462
+        ],
+        "geological": [
+          464
+        ],
+        "phenomena": [
+          465
+        ],
+        "at": [
+          466
+        ],
+        "biosphere-geosphere": [
+          468
+        ],
+        "interface.": [
+          469
         ]
       },
-      "abstract_text": "Based on fundamental mechanics, movement and force associate head and pelvic movement asymmetry with asymmetry of force production. We investigate, how often racehorses undergoing strenuous training regimens show evidence of switching between “preferred” limbs, i.e. one limb producing increased force, when assessed at monthly intervals? We hypothesize that clinical asymmetry thresholds designed for “detecting lameness” are frequently exceeded and that when applying previously established Thoroughbred-specific repeatability values, horses rarely switch between showing left- and right-sided asymmetry. Monthly gait assessments (inertial sensors) were conducted in 256 Thoroughbred racehorses at least twice per horse (up to 16 times per horse). Descriptive statistics for absolute differences for head and pelvic movement were compared to published Thoroughbred-specific repeatability values. The percentage of left–right switches between repeat assessments was calculated in comparison to three different levels of pre-defined thresholds (perfect symmetry, clinical lameness thresholds, previously established Thoroughbred-specific repeatability values) and switch frequencies compared between the three thresholds. Ranges containing 95% of monthly differences were higher than published daily and weekly values except for pelvic vertical range of motion. Approximately 30% of monthly differences in individual symmetry parameters showed left–right switches around “perfect symmetry”. Utilizing clinical lameness thresholds for categorizing left–right switches, a significantly (p &lt; 0.001) reduced percentage of 4–11% of measurements for head movement and 7–17% for pelvic movement showed switches. Using daily repeatability values for categorization, a further significantly (p &lt; 0.001) reduced percentage of switches was observed: 0.3–3.6% for head movement and 0.6–7.0% for pelvic movement. While racehorses in training regularly switch between small left- or right-sided movement symmetries, they less frequently switch between more pronounced left- and right-sided movement symmetries defined based on daily variations. Further studies should investigate the reasons for these rare switches.",
-      "abstract_snippet_250w": "Based on fundamental mechanics, movement and force associate head and pelvic movement asymmetry with asymmetry of force production. We investigate, how often racehorses undergoing strenuous training regimens show evidence of switching between “preferred” limbs, i.e. one limb producing increased force, when assessed at monthly intervals? We hypothesize that clinical asymmetry thresholds designed for “detecting lameness” are frequently exceeded and that when applying previously established Thoroughbred-specific repeatability values, horses rarely switch between showing left- and right-sided asymmetry. Monthly gait assessments (inertial sensors) were conducted in 256 Thoroughbred racehorses at least twice per horse (up to 16 times per horse). Descriptive statistics for absolute differences for head and pelvic movement were compared to published Thoroughbred-specific repeatability values. The percentage of left–right switches between repeat assessments was calculated in comparison to three different levels of pre-defined thresholds (perfect symmetry, clinical lameness thresholds, previously established Thoroughbred-specific repeatability values) and switch frequencies compared between the three thresholds. Ranges containing 95% of monthly differences were higher than published daily and weekly values except for pelvic vertical range of motion. Approximately 30% of monthly differences in individual symmetry parameters showed left–right switches around “perfect symmetry”. Utilizing clinical lameness thresholds for categorizing left–right switches, a significantly (p &lt; 0.001) reduced percentage of 4–11% of measurements for head movement and 7–17% for pelvic movement showed switches. Using daily repeatability values for categorization, a further significantly (p &lt; 0.001) reduced percentage of switches was observed: 0.3–3.6% for head movement and 0.6–7.0% for pelvic movement. While racehorses in training regularly switch…",
+      "abstract_text": "ABSTRACT Hydrocarbon seepage in marine sediments exerts selective pressure on benthic microbiomes. Accordingly, microbial community composition in these sediments can reflect the presence of hydrocarbons, with specific groups being more prolific in association with seepage. Here, we tested machine learning models with large 16S rRNA gene amplicon data sets derived from marine sediments in deep-sea hydrocarbon prospective areas of the Eastern Gulf of Mexico and NW Atlantic Scotian Slope. Utilizing H2O’s AutoML machine learning platform, it was determined that Gradient Boosting Machines performed best for creating 16S rRNA-based models that successfully predict the presence of hydrocarbons. Feature importance scores from the models revealed that in Gulf of Mexico samples, members of the Aminicenantia class (within the Acidobacteriota phylum) and the Sulfurovum genus (within the Campylobacterota phylum) were most diagnostic for the presence of low molecular weight hydrocarbon gases. The Campylobacterota lineage was also important in Scotian Slope sediments, along with sequences affiliated with the class-level JS1 group (within the Caldatribacteriota phylum) for determining hydrocarbon-positive sites. Testing these models in geographically distant seafloor basins showed that the microbial communities between basins varied sufficiently to prevent consistently accurate reciprocal predictions. However, models trained on a combined data set and filtered for important features performed substantially better, supporting the feasibility of generalized models under stringent feature selection. These results highlight the potential of seabed microbial taxonomy-based hydrocarbon seep site prediction when paired with refined sampling and consistent geochemical characterization. IMPORTANCE Our study showcases an important use of bioinformatics in an interdisciplinary context, by combining hydrocarbon geochemistry and microbial biodiversity DNA sequencing profiles. We trained and compared different machine learning models on 16S rRNA-based bacterial taxonomy data using 377 DNA sequencing libraries from marine surface sediments in two different hydrocarbon prospective marine basins from different parts of the global ocean to predict the hydrocarbon status of sediment samples. Of all algorithms tested, Gradient Boosting Machines worked best for this objective. Feature importance scores from the models highlighted that in Gulf of Mexico samples, members of the Aminicenantales order and Campylobacterota lineages were most diagnostic for the presence of low molecular weight hydrocarbon gases. The Campylobacterota lineage was also important in NW Atlantic Scotian Slope sediments, along with sequences affiliated with the class-level group JS1 (within the Caldatribacteriota phylum) for determining hydrocarbon-positive sites, though several features appeared to be basin-specific. Importantly, models had a high prediction accuracy when predicting samples from the same basin but were less effective in predicting the hydrocarbon status in reciprocal basin testing, pointing to the ecological differences in hydrocarbon-driven environmental selection in different parts of the ocean. However, combined models using a refined set of predictive features improved cross-basin performance, highlighting the feasibility of a broader application. Results highlight the exciting potential of microbial taxonomy-based machine learning models in predicting broader ecological, oceanographic, and geological phenomena at the biosphere-geosphere interface.",
+      "abstract_snippet_250w": "ABSTRACT Hydrocarbon seepage in marine sediments exerts selective pressure on benthic microbiomes. Accordingly, microbial community composition in these sediments can reflect the presence of hydrocarbons, with specific groups being more prolific in association with seepage. Here, we tested machine learning models with large 16S rRNA gene amplicon data sets derived from marine sediments in deep-sea hydrocarbon prospective areas of the Eastern Gulf of Mexico and NW Atlantic Scotian Slope. Utilizing H2O’s AutoML machine learning platform, it was determined that Gradient Boosting Machines performed best for creating 16S rRNA-based models that successfully predict the presence of hydrocarbons. Feature importance scores from the models revealed that in Gulf of Mexico samples, members of the Aminicenantia class (within the Acidobacteriota phylum) and the Sulfurovum genus (within the Campylobacterota phylum) were most diagnostic for the presence of low molecular weight hydrocarbon gases. The Campylobacterota lineage was also important in Scotian Slope sediments, along with sequences affiliated with the class-level JS1 group (within the Caldatribacteriota phylum) for determining hydrocarbon-positive sites. Testing these models in geographically distant seafloor basins showed that the microbial communities between basins varied sufficiently to prevent consistently accurate reciprocal predictions. However, models trained on a combined data set and filtered for important features performed substantially better, supporting the feasibility of generalized models under stringent feature selection. These results highlight the potential of seabed microbial taxonomy-based hydrocarbon seep site prediction when paired with refined sampling and consistent geochemical characterization. IMPORTANCE Our study showcases an important use of bioinformatics in an interdisciplinary context, by…",
       "is_oa": true
     }
   ]
